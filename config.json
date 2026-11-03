@@ -1,0 +1,7 @@
+{
+  "server_ip": "192.168.1.1",
+  "server_port": 12374,
+  "camera_source": 0,
+  "record_folder": "recordings",
+  "snapshot_folder": "snapshots"
+}
